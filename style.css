@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148888130.jpg?t=st=1727618256~exp=1727621856~hmac=1055b2e883d950c80fcdedbc2a2f0598fc513511a65fdd4a839cce22a388d4f8&w=996");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Poppins, sans-serif;
+    color: white;
+}
+.card{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+label{
+    font-size: 1rem;
+    font-weight: 600;
+}
+h3{
+    margin-top: 20px;
+    font-weight: 800;
+}
+table{
+    color: white;
+    font-size: 1.1rem;
+}
+thead{
+    color: white;
+    font-weight: 600;
+}
+tbody,td{
+    color: white;
+}
+tr:hover{
+    background-color: black;
+}
+
